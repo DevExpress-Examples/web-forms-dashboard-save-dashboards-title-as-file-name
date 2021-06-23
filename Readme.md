@@ -5,8 +5,7 @@
 * [Default.aspx](./CS/WebApplication18/Default.aspx) (VB: [Default.aspx](./VB/WebApplication18/Default.aspx))
 * [Default.aspx.cs](./CS/WebApplication18/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication18/Default.aspx.vb))
 <!-- default file list end -->
-# Web Dashboard - How to use a dashboard Title as a file name when saving dashboards
-
+# Dashboard for Web Forms - How to use a dashboard Title as a file name when saving dashboards
 
 <p>This example demonstrates how to use a dashboard Title as a file name when saving dashboards. This functionality is implemented by creating a custom dashboard storage.</p>
 
