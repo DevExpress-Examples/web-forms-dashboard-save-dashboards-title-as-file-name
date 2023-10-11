@@ -4,17 +4,15 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Dashboard for Web Forms - How to use a dashboard Title as a file name when saving dashboards
+# Dashboard for Web Forms - How to Use a Dashboard Title as a File Name When Saving Dashboards
 
 This example demonstrates how to use a dashboard Title as a file name when saving dashboards. This functionality is implemented by creating a custom dashboard storage.
 
-<!-- default file list -->
-## Files to look at
+## Files to Review
 
 * [CustomFileStorage.cs](./CS/WebApplication18/CustomFileStorage.cs) (VB: [CustomFileStorage.vb](./VB/WebApplication18/CustomFileStorage.vb))
 * [Default.aspx](./CS/WebApplication18/Default.aspx) (VB: [Default.aspx](./VB/WebApplication18/Default.aspx))
 * [Default.aspx.cs](./CS/WebApplication18/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication18/Default.aspx.vb))
-<!-- default file list end -->
 
 ## Documentation
 
