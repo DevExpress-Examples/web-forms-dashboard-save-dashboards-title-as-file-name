@@ -10,9 +10,9 @@ This example demonstrates how to use a dashboard Title as a file name when savin
 
 ## Files to Review
 
-* [CustomFileStorage.cs](./CS/WebApplication18/CustomFileStorage.cs) (VB: [CustomFileStorage.vb](./VB/WebApplication18/CustomFileStorage.vb))
-* [Default.aspx](./CS/WebApplication18/Default.aspx) (VB: [Default.aspx](./VB/WebApplication18/Default.aspx))
-* [Default.aspx.cs](./CS/WebApplication18/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication18/Default.aspx.vb))
+* [CustomFileStorage.cs](./CS/DXWebApplication2/CustomFileStorage.cs) (VB: [CustomFileStorage.vb](./VB/DXWebApplication2/CustomFileStorage.vb))
+* [Default.aspx](./CS/DXWebApplication2/Default.aspx) (VB: [Default.aspx](./VB/DXWebApplication2/Default.aspx))
+* [Default.aspx.cs](./CS/DXWebApplication2/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/DXWebApplication2/Default.aspx.vb))
 
 ## Documentation
 
