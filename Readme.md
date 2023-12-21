@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Dashboard for Web Forms - How to Use a Dashboard Title as a File Name When Saving Dashboards
+# BI Dashboard for Web Forms - How to Use a Dashboard Title as a File Name When Saving Dashboards
 
 This example demonstrates how to use a dashboard Title as a file name when saving dashboards. This functionality is implemented by creating a custom dashboard storage.
 
